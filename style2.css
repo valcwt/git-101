@@ -1,0 +1,23 @@
+body {
+margin:0;
+font-family: Helvetica;
+font-size: 20px;
+}
+
+#logo {
+	height: 80px;
+	width: 80px;
+}
+
+#container{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	flex-direction: column;
+}
+
+img{
+
+	border-radius: 50px;
+}
